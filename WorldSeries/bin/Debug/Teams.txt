@@ -1,0 +1,25 @@
+Arizona Diamondbacks,1
+Atlanta Braves,2
+Baltimore Orioles,3
+Boston Red Sox,7
+Chicago Cubs,2
+Chicago White Sox,3
+Cincinnati Reds,5
+Cleveland Indians,2
+Detroit Tigers,4
+Florida Marlins,2
+Kansas City Royals,1
+Los Angeles Angels,1
+Los Angeles Dodgers,6
+Milwaukee Braves,1
+Minnesota Twins,2
+New York Mets,2
+New York Yankees,27
+Oakland Athletics,3
+Oakland Athletics,6
+Philadelphia Phillies,2
+Pittsburgh Pirates,5
+San Francisco Giants,6
+St. Louis Cardinals,11
+Toronto Blue Jays,2
+Washington Senators,1
